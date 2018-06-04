@@ -1,0 +1,3 @@
+export const ADD_USER_TOKEN = 'ADD_USER_TOKEN'
+
+export const USER_LOGOUT='USER_LOGOUT'
